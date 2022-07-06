@@ -1,0 +1,3 @@
+<!DOCTYPE html>
+<html> <h1>Хочу в инкубатор</h1> </html>
+
